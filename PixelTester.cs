@@ -48,8 +48,6 @@ namespace DeadPixelTest
                         this.CenterToScreen();
                         break;
                 }
-
-                return;
             }
             else
             {
